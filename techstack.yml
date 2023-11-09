@@ -1,0 +1,1170 @@
+repo_name: ry-animal/cdk-patterns-serverless
+report_id: 3d7f2329a40ea42befa38cd4488b5933
+repo_type: Public
+timestamp: '2023-11-09T17:28:27+00:00'
+requested_by: nideveloper
+provider: github
+branch: main
+detected_tools_count: 87
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-04 22:40:34.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: polly/csharp/src/Polly/Polly.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: polly/csharp/src/Polly/Polly.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-03-31 19:26:10.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  version: 1.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: the-lambda-trilogy/python/lambda_fns/the_lambda_lith/requirements.txt
+  detection_source: the-lambda-trilogy/python/lambda_fns/the_lambda_lith/requirements.txt
+  last_updated_by: Matt C
+  last_updated_on: 2020-04-01 09:27:52.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: EC2 Default User
+  last_updated_on: 2020-07-09 15:26:46.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-18 10:41:22.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.5.5
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-12 09:40:37.000000000 Z
+- name: GraphQL
+  description: A data query language and runtime
+  website_url: http://graphql.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Query Languages
+  image_url: https://img.stackshare.io/service/3820/12972006.png
+  detection_source: the-simple-graphql-service/typescript/schema/schema.graphql
+  last_updated_by: Mark McCann
+  last_updated_on: 2020-03-05 23:40:37.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  version: 2.18.1
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: the-rds-proxy/typescript/lambda-fns/rds/package-lock.json
+  detection_source: the-rds-proxy/typescript/lambda-fns/rds/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-07-05 19:04:31.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/build.yml"
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-11-21 13:31:28.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source: the-state-machine/java/pom.xml
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 26.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: EC2 Default User
+  last_updated_on: 2020-07-09 15:26:46.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 5.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  version: 3.4.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: the-simple-webservice/java/pom.xml
+  detection_source: the-simple-webservice/java/pom.xml
+  last_updated_by: Driss Amri
+  last_updated_on: 2020-08-02 18:23:47.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-04 22:40:34.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: the-xray-tracer/typescript/lambda-fns/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-05-04 15:59:22.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-12 09:40:37.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source: polly/csharp/src/Polly.sln
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: the-rds-proxy/typescript/lambda-fns/rds/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-07-05 19:04:31.000000000 Z
+- name: AWS Lambda
+  description: Automatically run code in response to modifications to objects in Amazon
+    S3 buckets, messages in Kinesis streams, or updates in DynamoDB
+  website_url: http://aws.amazon.com/lambda
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:02:08.000000000 Z
+- name: Serverless
+  description: The most widely-adopted toolkit for building serverless applications
+  website_url: https://github.com/serverless/serverless
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-03-31 19:26:10.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source: Repo Metadata
+- name: Pandas
+  description: High-performance, easy-to-use data structures and data analysis tools
+    for the Python programming language
+  website_url: http://pandas.pydata.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2180/1284191.png
+  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  last_updated_by: Matt C
+  last_updated_on: 2020-12-03 16:46:16.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: scikit-learn
+  description: Easy-to-use and general-purpose machine learning in Python
+  website_url: http://scikit-learn.org/stable/
+  version: 0.23.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
+  detection_source_url: the-predictive-lambda/python/model/requirements.txt
+  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  last_updated_by: Matt C
+  last_updated_on: 2020-12-03 16:46:16.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.1000.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 10.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 10.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-18 10:41:22.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 9.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-18 10:41:22.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 3.5.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 26.0.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:02:08.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 14.14.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:02:08.000000000 Z
+- name: aws-sdk
+  description: AWS SDK for JavaScript
+  package_url: https://www.npmjs.com/aws-sdk
+  version: 2.822.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-eventbridge-atm/typescript/lambda-fns/atmProducer/package.json
+  last_updated_by: Mark Holden
+  last_updated_on: 2020-08-14 19:48:43.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-03-31 19:26:10.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 5.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 1.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-18 10:41:22.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/typescript/website/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2020-01-18 10:41:22.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: EC2 Default User
+  last_updated_on: 2020-11-23 11:01:07.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 26.4.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:02:08.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: the-xray-tracer/typescript/package.json
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:02:08.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.0.3
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: polly/typescript/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/typescript/website/package.json
+  last_updated_by: Matt C
+  last_updated_on: 2020-08-01 09:54:09.000000000 Z
+- name: aws-cdk.aws-cloudwatch
+  description: CDK Constructs for AWS CloudWatch
+  package_url: https://pypi.org/aws-cdk.aws-cloudwatch
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20561/default_d975dcf643a054134f39226d51d4a5fea9320efe.png
+  detection_source_url: the-cloudwatch-dashboard/python/requirements.txt
+  detection_source: the-cloudwatch-dashboard/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-ec2
+  description: CDK Constructs for AWS EC2
+  package_url: https://pypi.org/aws-cdk.aws-ec2
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20435/default_0af1a91d6fdefcfffb8cd8c09bb54468583cce6e.png
+  detection_source_url: the-basic-mq/python/requirements.txt
+  detection_source: the-rds-proxy/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-events
+  description: AWS CloudWatch Events Construct Library
+  package_url: https://pypi.org/aws-cdk.aws-events
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20351/default_f465c24287ef1189cebf97fef20e50d0bbc5623d.png
+  detection_source_url: the-destined-lambda/python/requirements.txt
+  detection_source: the-scheduled-lambda/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-iam
+  description: CDK routines for easily assigning correct and minimal IAM permissions
+  package_url: https://pypi.org/aws-cdk.aws-iam
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20061/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
+  detection_source_url: polly/python/requirements.txt
+  detection_source: the-xray-tracer/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-lambda
+  description: CDK Constructs for AWS Lambda
+  package_url: https://pypi.org/aws-cdk.aws-lambda
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20188/default_c5c395350b07388a35a5e9efffb0ea706d6e196d.png
+  detection_source_url: polly/python/requirements.txt
+  detection_source: the-xray-tracer/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-s3
+  description: CDK Constructs for AWS S3
+  package_url: https://pypi.org/aws-cdk.aws-s3
+  version: 1.132.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20272/default_847617f8273bac4dd5921370b0684f29c3397a68.png
+  detection_source_url: the-eventbridge-etl/python/requirements.txt
+  detection_source: the-eventbridge-etl/python/requirements.txt
+  last_updated_by: Muhammad Mubashirullah Durrani
+  last_updated_on: 2021-11-14 15:55:47.000000000 Z
+- name: aws-cdk.aws-sns
+  description: CDK Constructs for AWS SNS
+  package_url: https://pypi.org/aws-cdk.aws-sns
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20468/default_d777e156225ecb5bdb0ecf55aeae82348a347aa8.png
+  detection_source_url: the-big-fan/python/requirements.txt
+  detection_source: the-xray-tracer/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.aws-sqs
+  description: CDK Constructs for AWS SQS
+  package_url: https://pypi.org/aws-cdk.aws-sqs
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20760/default_e2719b1267883da38e2e450add05ed7995e6c793.png
+  detection_source_url: the-big-fan/python/requirements.txt
+  detection_source: the-xray-tracer/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: aws-cdk.core
+  description: AWS Cloud Development Kit Core Library
+  package_url: https://pypi.org/aws-cdk.core
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19933/default_be2d81964cc94ab130a840a7c3c910471f9fbd86.png
+  detection_source_url: polly/python/requirements.txt
+  detection_source: the-xray-tracer/python/requirements.txt
+  last_updated_by: Matt Coulter
+  last_updated_on: 2021-01-11 09:04:58.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/boto3
+  version: 1.9.216
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: the-eventbridge-etl/python/container/s3DataExtractionTask/requirements.txt
+  detection_source: the-eventbridge-etl/typescript/container/s3DataExtractionTask/requirements.txt
+  last_updated_by: Matt C
+  last_updated_on: 2020-03-16 15:50:38.000000000 Z
+- name: joblib
+  description: 'Lightweight pipelining: using Python functions as pipeline jobs'
+  package_url: https://pypi.org/joblib
+  version: 0.17.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
+  detection_source_url: the-predictive-lambda/python/model/requirements.txt
+  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  last_updated_by: Matt C
+  last_updated_on: 2020-12-03 16:46:16.000000000 Z
+  vulnerabilities:
+  - name: joblib vulnerable to arbitrary code execution
+    cve_id: CVE-2022-21797
+    cve_url: https://github.com/advisories/GHSA-6hrg-qmvc-2xh8
+    detected_date: Sep 30
+    severity: critical
+    first_patched: 1.2.0
+- name: Amazon.CDK
+  description: AWS Cloud Development Kit Core Library
+  package_url: https://www.nuget.org/Amazon.CDK
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13235/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
+  detection_source_url: polly/csharp/src/Polly/Polly.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: Amazon.CDK.AWS.Events
+  description: AWS CloudWatch Events Construct Library
+  package_url: https://www.nuget.org/Amazon.CDK.AWS.Events
+  version: 1.82.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13919/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
+  detection_source_url: the-scheduled-lambda/csharp/src/TheScheduledLambda/TheScheduledLambda.csproj
+  detection_source: the-scheduled-lambda/csharp/src/TheScheduledLambda/TheScheduledLambda.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-05 00:11:24.000000000 Z
+- name: Amazon.CDK.AWS.IAM
+  description: CDK routines for easily assigning correct and minimal IAM permissions
+  package_url: https://www.nuget.org/Amazon.CDK.AWS.IAM
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13505/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
+  detection_source_url: polly/csharp/src/Polly/Polly.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: Amazon.CDK.AWS.Lambda
+  description: CDK Constructs for AWS Lambda
+  package_url: https://www.nuget.org/Amazon.CDK.AWS.Lambda
+  version: 1.83.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13884/default_906747c0f563678b65583738a459bbd5993167b7.png
+  detection_source_url: polly/csharp/src/Polly/Polly.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-12 00:11:43.000000000 Z
+- name: Amazon.CDK.AWS.SQS
+  description: CDK Constructs for AWS SQS
+  package_url: https://www.nuget.org/Amazon.CDK.AWS.SQS
+  version: 1.82.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14170/default_95e62237fe99b6cac91c2c45f56ea2f28dc7a851.png
+  detection_source_url: the-scalable-webhook/csharp/src/TheScalableWebhook/TheScalableWebhook.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Leandro Damascena
+  last_updated_on: 2021-01-04 01:05:23.000000000 Z
+- name: Amazon.CDK.AWS.StepFunctions
+  description: The CDK Construct Library for AWS::StepFunctions
+  package_url: https://www.nuget.org/Amazon.CDK.AWS.StepFunctions
+  version: 1.119.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14358/default_6201d4e597174b346fb0490accc0cfd403259bf9.png
+  detection_source_url: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  last_updated_by: Matt C
+  last_updated_on: 2021-08-26 16:25:59.000000000 Z
+- name: software.amazon.awssdk:url-connection-client
+  description: The Amazon Web Services SDK for Java provides Java APIs for building
+    software on AWS' cost-effective, scalable, and reliable infrastructure products
+  version: 2.13.66
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: the-simple-webservice/java/lambda/pom.xml
+  detection_source: the-simple-webservice/java/lambda/pom.xml
+  last_updated_by: Driss Amri
+  last_updated_on: 2020-08-02 18:23:47.000000000 Z
