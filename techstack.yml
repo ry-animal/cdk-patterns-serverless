@@ -1,7 +1,8 @@
 repo_name: ry-animal/cdk-patterns-serverless
 report_id: 3d7f2329a40ea42befa38cd4488b5933
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:28:27+00:00'
+timestamp: '2024-01-04T15:07:16+00:00'
 requested_by: nideveloper
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -55,6 +60,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -65,6 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-04 22:40:34.000000000 Z
@@ -90,8 +98,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: polly/csharp/src/Polly/Polly.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly/Polly.csproj
+  detection_source: polly/csharp/src/Polly/Polly.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: ASP.NET Core
@@ -105,8 +113,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: polly/csharp/src/Polly/Polly.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly/Polly.csproj
+  detection_source: polly/csharp/src/Polly/Polly.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: Angular
@@ -119,8 +127,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: ExpressJS
@@ -134,7 +142,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
   detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-03-31 19:26:10.000000000 Z
@@ -148,7 +156,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
-  detection_source_url: the-lambda-trilogy/python/lambda_fns/the_lambda_lith/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-lambda-trilogy/python/lambda_fns/the_lambda_lith/requirements.txt
   detection_source: the-lambda-trilogy/python/lambda_fns/the_lambda_lith/requirements.txt
   last_updated_by: Matt C
   last_updated_on: 2020-04-01 09:27:52.000000000 Z
@@ -161,7 +169,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package.json
+  detection_source: polly/typescript/package.json
   last_updated_by: EC2 Default User
   last_updated_on: 2020-07-09 15:26:46.000000000 Z
 - name: React
@@ -174,8 +183,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: s3-react-website/python/website/package-lock.json
-  detection_source: s3-react-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-18 10:41:22.000000000 Z
 - name: RxJS
@@ -187,8 +196,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-12 09:40:37.000000000 Z
 - name: GraphQL
@@ -199,7 +208,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
-  detection_source: the-simple-graphql-service/typescript/schema/schema.graphql
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-simple-graphql-service/python/schema/schema.graphql
+  detection_source: the-simple-graphql-service/python/schema/schema.graphql
   last_updated_by: Mark McCann
   last_updated_on: 2020-03-05 23:40:37.000000000 Z
 - name: MySQL
@@ -211,8 +221,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source_url: the-rds-proxy/typescript/lambda-fns/rds/package-lock.json
-  detection_source: the-rds-proxy/typescript/lambda-fns/rds/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-rds-proxy/typescript/lambda-fns/rds/package-lock.json
+  detection_source: the-rds-proxy/python/lambda_fns/rds/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-07-05 19:04:31.000000000 Z
 - name: Docker
@@ -224,6 +234,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -233,6 +244,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -242,6 +254,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/.github/workflows/build.yml
   detection_source: ".github/workflows/build.yml"
   last_updated_by: Matt Coulter
   last_updated_on: 2020-11-21 13:31:28.000000000 Z
@@ -254,7 +267,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2020/874086.png
-  detection_source: the-state-machine/java/pom.xml
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/java/pom.xml
+  detection_source: polly/java/pom.xml
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: Jasmine
@@ -266,8 +280,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: Jest
@@ -280,8 +294,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: EC2 Default User
   last_updated_on: 2020-07-09 15:26:46.000000000 Z
 - name: Karma
@@ -294,8 +308,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: Mockito
@@ -308,7 +322,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
-  detection_source_url: the-simple-webservice/java/pom.xml
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-simple-webservice/java/pom.xml
   detection_source: the-simple-webservice/java/pom.xml
   last_updated_by: Driss Amri
   last_updated_on: 2020-08-02 18:23:47.000000000 Z
@@ -320,6 +334,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-04 22:40:34.000000000 Z
@@ -333,8 +348,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: PyPI
@@ -345,7 +360,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
-  detection_source: the-xray-tracer/typescript/lambda-fns/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-xray-tracer/python/lambda_fns/package.json
+  detection_source: the-xray-tracer/python/lambda_fns/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-05-04 15:59:22.000000000 Z
 - name: TSLint
@@ -356,7 +372,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-12 09:40:37.000000000 Z
 - name: Visual Studio
@@ -368,6 +385,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly.sln
   detection_source: polly/csharp/src/Polly.sln
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
@@ -379,7 +397,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: the-rds-proxy/typescript/lambda-fns/rds/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-rds-proxy/python/lambda_fns/rds/package.json
+  detection_source: the-rds-proxy/python/lambda_fns/rds/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-07-05 19:04:31.000000000 Z
 - name: AWS Lambda
@@ -391,7 +410,8 @@ tools:
   category: Application Hosting
   sub_category: Serverless / Task Processing
   image_url: https://img.stackshare.io/service/1909/aws-lambda.png
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package.json
+  detection_source: polly/typescript/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:02:08.000000000 Z
 - name: Serverless
@@ -403,6 +423,7 @@ tools:
   category: Application Hosting
   sub_category: Serverless / Task Processing
   image_url: https://img.stackshare.io/service/5095/serverless-logo.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
   detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-03-31 19:26:10.000000000 Z
@@ -415,6 +436,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: Pandas
   description: High-performance, easy-to-use data structures and data analysis tools
@@ -426,7 +448,8 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2180/1284191.png
-  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-predictive-lambda/python/model/requirements.txt
+  detection_source: the-predictive-lambda/python/model/requirements.txt
   last_updated_by: Matt C
   last_updated_on: 2020-12-03 16:46:16.000000000 Z
 - name: Shell
@@ -438,6 +461,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless
   detection_source: Repo Metadata
 - name: scikit-learn
   description: Easy-to-use and general-purpose machine learning in Python
@@ -449,8 +473,8 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2657/scikit-learn-logo.png
-  detection_source_url: the-predictive-lambda/python/model/requirements.txt
-  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-predictive-lambda/python/model/requirements.txt
+  detection_source: the-predictive-lambda/python/model/requirements.txt
   last_updated_by: Matt C
   last_updated_on: 2020-12-03 16:46:16.000000000 Z
 - name: "@angular-devkit/build-angular"
@@ -463,8 +487,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/animations"
@@ -477,8 +501,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/cli"
@@ -491,8 +515,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/common"
@@ -505,8 +529,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/compiler"
@@ -519,8 +543,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/compiler-cli"
@@ -533,8 +557,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/forms"
@@ -547,8 +571,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/platform-browser"
@@ -561,8 +585,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/platform-browser-dynamic"
@@ -575,8 +599,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@angular/router"
@@ -589,8 +613,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@testing-library/jest-dom"
@@ -603,8 +627,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: s3-react-website/python/website/package-lock.json
-  detection_source: s3-react-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-18 10:41:22.000000000 Z
 - name: "@testing-library/react"
@@ -618,8 +642,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: s3-react-website/python/website/package-lock.json
-  detection_source: s3-react-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-18 10:41:22.000000000 Z
 - name: "@types/jasmine"
@@ -632,8 +656,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@types/jasminewd2"
@@ -646,8 +670,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: "@types/jest"
@@ -660,8 +684,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:02:08.000000000 Z
 - name: "@types/node"
@@ -674,8 +698,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:02:08.000000000 Z
 - name: aws-sdk
@@ -688,8 +712,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16018/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-eventbridge-atm/typescript/lambda-fns/atmProducer/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: the-eventbridge-atm/csharp/lambda-fns/atmProducer/package.json
   last_updated_by: Mark Holden
   last_updated_on: 2020-08-14 19:48:43.000000000 Z
 - name: codelyzer
@@ -702,8 +726,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: express
@@ -716,7 +740,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
   detection_source: the-lambda-trilogy/typescript/lambda-fns/the-lambda-lith/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-03-31 19:26:10.000000000 Z
@@ -737,8 +761,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: jasmine-spec-reporter
@@ -751,8 +775,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: karma-chrome-launcher
@@ -765,8 +789,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: karma-coverage-istanbul-reporter
@@ -779,8 +803,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: karma-jasmine
@@ -793,8 +817,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: karma-jasmine-html-reporter
@@ -807,8 +831,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: react-dom
@@ -821,8 +845,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: s3-react-website/python/website/package-lock.json
-  detection_source: s3-react-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-18 10:41:22.000000000 Z
 - name: react-scripts
@@ -835,8 +859,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: s3-react-website/python/website/package-lock.json
-  detection_source: s3-react-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-react-website/python/website/package-lock.json
+  detection_source: s3-react-website/python/website/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2020-01-18 10:41:22.000000000 Z
 - name: source-map-support
@@ -849,8 +873,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: EC2 Default User
   last_updated_on: 2020-11-23 11:01:07.000000000 Z
 - name: ts-jest
@@ -864,8 +888,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:02:08.000000000 Z
 - name: ts-node
@@ -878,8 +902,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: the-xray-tracer/typescript/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: polly/typescript/package.json
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:02:08.000000000 Z
 - name: tslib
@@ -892,8 +916,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: polly/typescript/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/typescript/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: zone.js
@@ -906,13 +930,13 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: s3-angular-website/python/website/package-lock.json
-  detection_source: s3-angular-website/typescript/website/package.json
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/s3-angular-website/python/website/package-lock.json
+  detection_source: s3-angular-website/python/website/package.json
   last_updated_by: Matt C
   last_updated_on: 2020-08-01 09:54:09.000000000 Z
 - name: aws-cdk.aws-cloudwatch
   description: CDK Constructs for AWS CloudWatch
-  package_url: https://pypi.org/aws-cdk.aws-cloudwatch
+  package_url: https://pypi.org/project/aws-cdk.aws-cloudwatch
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -920,13 +944,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20561/default_d975dcf643a054134f39226d51d4a5fea9320efe.png
-  detection_source_url: the-cloudwatch-dashboard/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-cloudwatch-dashboard/python/requirements.txt
   detection_source: the-cloudwatch-dashboard/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-ec2
   description: CDK Constructs for AWS EC2
-  package_url: https://pypi.org/aws-cdk.aws-ec2
+  package_url: https://pypi.org/project/aws-cdk.aws-ec2
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -934,13 +958,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20435/default_0af1a91d6fdefcfffb8cd8c09bb54468583cce6e.png
-  detection_source_url: the-basic-mq/python/requirements.txt
-  detection_source: the-rds-proxy/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-basic-mq/python/requirements.txt
+  detection_source: the-basic-mq/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-events
   description: AWS CloudWatch Events Construct Library
-  package_url: https://pypi.org/aws-cdk.aws-events
+  package_url: https://pypi.org/project/aws-cdk.aws-events
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -948,13 +972,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20351/default_f465c24287ef1189cebf97fef20e50d0bbc5623d.png
-  detection_source_url: the-destined-lambda/python/requirements.txt
-  detection_source: the-scheduled-lambda/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-destined-lambda/python/requirements.txt
+  detection_source: the-destined-lambda/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-iam
   description: CDK routines for easily assigning correct and minimal IAM permissions
-  package_url: https://pypi.org/aws-cdk.aws-iam
+  package_url: https://pypi.org/project/aws-cdk.aws-iam
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -962,13 +986,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20061/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
-  detection_source_url: polly/python/requirements.txt
-  detection_source: the-xray-tracer/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/python/requirements.txt
+  detection_source: polly/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-lambda
   description: CDK Constructs for AWS Lambda
-  package_url: https://pypi.org/aws-cdk.aws-lambda
+  package_url: https://pypi.org/project/aws-cdk.aws-lambda
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -976,13 +1000,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20188/default_c5c395350b07388a35a5e9efffb0ea706d6e196d.png
-  detection_source_url: polly/python/requirements.txt
-  detection_source: the-xray-tracer/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/python/requirements.txt
+  detection_source: polly/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-s3
   description: CDK Constructs for AWS S3
-  package_url: https://pypi.org/aws-cdk.aws-s3
+  package_url: https://pypi.org/project/aws-cdk.aws-s3
   version: 1.132.0
   license: Apache-2.0
   open_source: true
@@ -990,13 +1014,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20272/default_847617f8273bac4dd5921370b0684f29c3397a68.png
-  detection_source_url: the-eventbridge-etl/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-eventbridge-etl/python/requirements.txt
   detection_source: the-eventbridge-etl/python/requirements.txt
   last_updated_by: Muhammad Mubashirullah Durrani
   last_updated_on: 2021-11-14 15:55:47.000000000 Z
 - name: aws-cdk.aws-sns
   description: CDK Constructs for AWS SNS
-  package_url: https://pypi.org/aws-cdk.aws-sns
+  package_url: https://pypi.org/project/aws-cdk.aws-sns
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -1004,13 +1028,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20468/default_d777e156225ecb5bdb0ecf55aeae82348a347aa8.png
-  detection_source_url: the-big-fan/python/requirements.txt
-  detection_source: the-xray-tracer/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-big-fan/python/requirements.txt
+  detection_source: the-big-fan/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.aws-sqs
   description: CDK Constructs for AWS SQS
-  package_url: https://pypi.org/aws-cdk.aws-sqs
+  package_url: https://pypi.org/project/aws-cdk.aws-sqs
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -1018,13 +1042,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20760/default_e2719b1267883da38e2e450add05ed7995e6c793.png
-  detection_source_url: the-big-fan/python/requirements.txt
-  detection_source: the-xray-tracer/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-big-fan/python/requirements.txt
+  detection_source: the-big-fan/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: aws-cdk.core
   description: AWS Cloud Development Kit Core Library
-  package_url: https://pypi.org/aws-cdk.core
+  package_url: https://pypi.org/project/aws-cdk.core
   version: 1.83.0
   license: Apache-2.0
   open_source: true
@@ -1032,13 +1056,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19933/default_be2d81964cc94ab130a840a7c3c910471f9fbd86.png
-  detection_source_url: polly/python/requirements.txt
-  detection_source: the-xray-tracer/python/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/python/requirements.txt
+  detection_source: polly/python/requirements.txt
   last_updated_by: Matt Coulter
   last_updated_on: 2021-01-11 09:04:58.000000000 Z
 - name: boto3
   description: The AWS SDK for Python
-  package_url: https://pypi.org/boto3
+  package_url: https://pypi.org/project/boto3
   version: 1.9.216
   license: Apache-2.0
   open_source: true
@@ -1046,13 +1070,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
-  detection_source_url: the-eventbridge-etl/python/container/s3DataExtractionTask/requirements.txt
-  detection_source: the-eventbridge-etl/typescript/container/s3DataExtractionTask/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-eventbridge-etl/python/container/s3DataExtractionTask/requirements.txt
+  detection_source: the-eventbridge-etl/python/container/s3DataExtractionTask/requirements.txt
   last_updated_by: Matt C
   last_updated_on: 2020-03-16 15:50:38.000000000 Z
 - name: joblib
   description: 'Lightweight pipelining: using Python functions as pipeline jobs'
-  package_url: https://pypi.org/joblib
+  package_url: https://pypi.org/project/joblib
   version: 0.17.0
   license: BSD-3-Clause
   open_source: true
@@ -1060,8 +1084,8 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
-  detection_source_url: the-predictive-lambda/python/model/requirements.txt
-  detection_source: the-predictive-lambda/typescript/model/requirements.txt
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-predictive-lambda/python/model/requirements.txt
+  detection_source: the-predictive-lambda/python/model/requirements.txt
   last_updated_by: Matt C
   last_updated_on: 2020-12-03 16:46:16.000000000 Z
   vulnerabilities:
@@ -1081,8 +1105,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13235/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
-  detection_source_url: polly/csharp/src/Polly/Polly.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly/Polly.csproj
+  detection_source: polly/csharp/src/Polly/Polly.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: Amazon.CDK.AWS.Events
@@ -1095,7 +1119,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13919/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
-  detection_source_url: the-scheduled-lambda/csharp/src/TheScheduledLambda/TheScheduledLambda.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-scheduled-lambda/csharp/src/TheScheduledLambda/TheScheduledLambda.csproj
   detection_source: the-scheduled-lambda/csharp/src/TheScheduledLambda/TheScheduledLambda.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-05 00:11:24.000000000 Z
@@ -1109,8 +1133,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13505/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
-  detection_source_url: polly/csharp/src/Polly/Polly.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly/Polly.csproj
+  detection_source: polly/csharp/src/Polly/Polly.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: Amazon.CDK.AWS.Lambda
@@ -1123,8 +1147,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13884/default_906747c0f563678b65583738a459bbd5993167b7.png
-  detection_source_url: polly/csharp/src/Polly/Polly.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/polly/csharp/src/Polly/Polly.csproj
+  detection_source: polly/csharp/src/Polly/Polly.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-12 00:11:43.000000000 Z
 - name: Amazon.CDK.AWS.SQS
@@ -1137,8 +1161,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14170/default_95e62237fe99b6cac91c2c45f56ea2f28dc7a851.png
-  detection_source_url: the-scalable-webhook/csharp/src/TheScalableWebhook/TheScalableWebhook.csproj
-  detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-scalable-webhook/csharp/src/TheScalableWebhook/TheScalableWebhook.csproj
+  detection_source: the-scalable-webhook/csharp/src/TheScalableWebhook/TheScalableWebhook.csproj
   last_updated_by: Leandro Damascena
   last_updated_on: 2021-01-04 01:05:23.000000000 Z
 - name: Amazon.CDK.AWS.StepFunctions
@@ -1151,7 +1175,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14358/default_6201d4e597174b346fb0490accc0cfd403259bf9.png
-  detection_source_url: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   detection_source: the-state-machine/csharp/src/TheStateMachine/TheStateMachine.csproj
   last_updated_by: Matt C
   last_updated_on: 2021-08-26 16:25:59.000000000 Z
@@ -1164,7 +1188,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: the-simple-webservice/java/lambda/pom.xml
+  detection_source_url: https://github.com/ry-animal/cdk-patterns-serverless/blob/main/the-simple-webservice/java/lambda/pom.xml
   detection_source: the-simple-webservice/java/lambda/pom.xml
   last_updated_by: Driss Amri
   last_updated_on: 2020-08-02 18:23:47.000000000 Z
