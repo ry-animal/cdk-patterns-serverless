@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 ry-animal/cdk-patterns-serverless is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
@@ -36,11 +37,13 @@ ry-animal/cdk-patterns-serverless is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 ry-animal/cdk-patterns-serverless is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -75,14 +78,15 @@ ry-animal/cdk-patterns-serverless is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ry-animal/cdk-patterns-serverless](https://github.com/ry-animal/cdk-patterns-serverless)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|87<br/>Tools used|11/09/23 <br/>Report generated|
+|87<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -461,17 +465,17 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[aws-cdk.aws-cloudwatch](https://pypi.org/aws-cdk.aws-cloudwatch)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-ec2](https://pypi.org/aws-cdk.aws-ec2)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-events](https://pypi.org/aws-cdk.aws-events)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-iam](https://pypi.org/aws-cdk.aws-iam)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-lambda](https://pypi.org/aws-cdk.aws-lambda)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-s3](https://pypi.org/aws-cdk.aws-s3)|v1.132.0|11/14/21|Muhammad Mubashirullah Durrani |Apache-2.0|N/A|
-|[aws-cdk.aws-sns](https://pypi.org/aws-cdk.aws-sns)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.aws-sqs](https://pypi.org/aws-cdk.aws-sqs)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[aws-cdk.core](https://pypi.org/aws-cdk.core)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
-|[boto3](https://pypi.org/boto3)|v1.9.216|03/16/20|Matt C |Apache-2.0|N/A|
-|[joblib](https://pypi.org/joblib)|v0.17.0|12/03/20|Matt C |BSD-3-Clause|[CVE-2022-21797](https://github.com/advisories/GHSA-6hrg-qmvc-2xh8) (Critical)|
+|[aws-cdk.aws-cloudwatch](https://pypi.org/project/aws-cdk.aws-cloudwatch)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-ec2](https://pypi.org/project/aws-cdk.aws-ec2)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-events](https://pypi.org/project/aws-cdk.aws-events)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-iam](https://pypi.org/project/aws-cdk.aws-iam)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-lambda](https://pypi.org/project/aws-cdk.aws-lambda)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-s3](https://pypi.org/project/aws-cdk.aws-s3)|v1.132.0|11/14/21|Muhammad Mubashirullah Durrani |Apache-2.0|N/A|
+|[aws-cdk.aws-sns](https://pypi.org/project/aws-cdk.aws-sns)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.aws-sqs](https://pypi.org/project/aws-cdk.aws-sqs)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[aws-cdk.core](https://pypi.org/project/aws-cdk.core)|v1.83.0|01/11/21|Matt Coulter |Apache-2.0|N/A|
+|[boto3](https://pypi.org/project/boto3)|v1.9.216|03/16/20|Matt C |Apache-2.0|N/A|
+|[joblib](https://pypi.org/project/joblib)|v0.17.0|12/03/20|Matt C |BSD-3-Clause|[CVE-2022-21797](https://github.com/advisories/GHSA-6hrg-qmvc-2xh8) (Critical)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg'/> NuGet (6)
@@ -495,4 +499,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
